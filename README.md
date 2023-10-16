@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Atta Mohio Din Noon
 - 👀 I’m interested in cybersecurity and ethical hacking.
-- 🌱 I’m currently learning Computer Science at FAST Lahore
+- 🌱 I’m am a Bachelor in Computer Science.
 - 📫 How to reach me : Email me at iaattanoon@gmail.com
 <!---
 noonatta/noonatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
